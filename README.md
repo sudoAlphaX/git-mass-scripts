@@ -1,11 +1,11 @@
 
 <div align="center">
-  <a href="https://github.com/sudoAlphaX/git-mass-scripts">  </a>
+  <a href="https://github.com/sudoAlphaX/git-mass-scripts"></a>
 
-<h1 align="center">Git Mass Scripts/h1>
+<h1 align="center">Git Mass Scripts</h1>
 
   <p align="center">
-    Bunch of useful Git Scripts
+    <h3>Bunch of useful Git Scripts</h3>
 
 [![Stargazers][stars-badge]][stars-url]
 [![Forks][forks-badge]][forks-url]
